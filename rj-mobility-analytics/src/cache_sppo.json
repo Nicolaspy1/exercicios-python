@@ -1,0 +1,9 @@
+{
+    "veiculos": [
+        {"ordem": "A28123", "linha": "415", "latitude": -22.9068, "longitude": -43.1729, "velocidade": 28.5},
+        {"ordem": "B45012", "linha": "309", "latitude": -22.9519, "longitude": -43.2105, "velocidade": 14.0},
+        {"ordem": "C11099", "linha": "125", "latitude": -22.9222, "longitude": -43.1845, "velocidade": 0.0},
+        {"ordem": "A28124", "linha": "415", "latitude": -22.9112, "longitude": -43.1780, "velocidade": 32.1},
+        {"ordem": "D33102", "linha": "583", "latitude": -22.9625, "longitude": -43.1812, "velocidade": 19.8}
+    ]
+}
